@@ -28,10 +28,6 @@ ss = str(now.second)
 t=(mmmm + "/" + dddd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 
-hours = (now.hour)
-x = datetime.datetime.now()
-g= datetime.datetime(2028, 10, 2, 1, 00 ,0)
-
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print("    "+ 'TOOL HAS BEEN EXPERT\nBO KRINI TOOL NAMA BNERA BO‌  @malashafiq \n Channel @python_coder_tools')
