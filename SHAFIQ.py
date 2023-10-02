@@ -30,7 +30,7 @@ t=(mmmm + "/" + dddd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2030, 10, 2, 1, 00 ,0)
+g= datetime.datetime(2020, 10, 2, 1, 00 ,0)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
@@ -266,10 +266,7 @@ def banner():
 	by1551(f'''\t
 	     
 
-    _      ______     ______       _     
-  /' \    /\  ___\   /\  ___\    /' \    
- /\_, \   \ \ \__/   \ \ \__/   /\_, \   
- \/_/\ \   \ \___``\  \ \___``\ \/_/\ \  
+    _      ______     ______       _  ``\  \ \___``\ \/_/\ \  
     \ \ \   \/\ \L\ \  \/\ \L\ \   \ \ \ 
                \____/   \ \____/    
 
