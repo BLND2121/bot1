@@ -30,7 +30,7 @@ t=(mmmm + "/" + dddd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2020, 10, 2, 1, 00 ,0)
+g= datetime.datetime(2030, 10, 2, 1, 00 ,0)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
